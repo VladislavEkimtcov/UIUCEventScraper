@@ -9,7 +9,7 @@ UIDs = []
 
 print("Processing " + str(len(UncleanCalendar.events)) + " events from the original file...")
 for ev in UncleanCalendar.events:
-    if ev.uid not in UIDs and:
+    if ev.uid not in UIDs:
         NewCal.events.add(ev)
         UIDs.append(ev.uid)
 
