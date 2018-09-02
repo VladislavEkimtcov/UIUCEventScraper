@@ -14,6 +14,7 @@ for ev in UncleanCalendar.events:
     if ev.uid not in UIDs:
         for word in searchstrings:
             if word in ev.description.lower():
+                ev.description = "FOUND: " + word.upper() + "\n" + ev.description
                 NewCal.events.add(ev)
                 UIDs.append(ev.uid)
                 break
