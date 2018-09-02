@@ -20,7 +20,5 @@ When the loop is finished, we can merge the ICS files together and import to any
 ## Outcome
 Some issues were encountered during this project:
 * Some calendar names included illegal characters (slashes, for example). Code was added to eliminate those.
-* Many calendars were empty or corrupted. Plus, very few included food events. Additional ahndling was included to search for pages that mention "Pizza", "Food", "Snack", or "Barbecue"
-* Different departments turned out to participate in the exact same events, resulting in duplicates.
-
-[ICS duplicate remover](https://github.com/VladislavEkimtcov/PythonICSDuplicateRemover) seemed like a good solution and is included with the distribution.
+* Many calendars were empty or corrupted. Plus, very few included food events. Additional handling was included to search for pages that mention "Pizza", "Food", "Snack", or "Barbecue"
+* Different departments turned out to participate in the exact same events, resulting in duplicates. [ICS duplicate remover](https://github.com/VladislavEkimtcov/PythonICSDuplicateRemover) seemed like a good solution and is included with the distribution.
