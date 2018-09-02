@@ -2,7 +2,7 @@
 Are you the type of person who signs up for 50 RSOs during Quad Day? Are you the type of person with -$78 in liqud assets? Are you just hungry? Why not check out some (or all) UIUC events?
 
 ## Motivation
-I'm really hungry and want to score some free pizza. After looking for some UIUC events, I noticed that UIUC has moved on to a global calendar system as seen athttps://illinois.edu/resources/calendars.html. Further research revealed that:
+I'm really hungry and want to score some free pizza. After looking for some UIUC events, I noticed that UIUC has moved on to a global calendar system as seen at https://illinois.edu/resources/calendars.html. Further research revealed that:
 
 * All calendars are numbered: https://calendars.illinois.edu/list/2463
 * All calendars come in a downloadable *.ics format: https://calendars.illinois.edu/ical/2463.ics
