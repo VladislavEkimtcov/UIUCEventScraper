@@ -56,4 +56,6 @@ for i in range(0, 10000):
             print("No food found with " + title_string)
     except urllib.error.HTTPError:
         print("Calendar ID " + str(i) + " is either private or does not exist")
+    except:
+        print("Unhandled exception!")
 os.remove("DownloadedCal.html")
